@@ -15,7 +15,7 @@ st.write("💵Insurance Purchase Prediction")
 
 st.markdown("---")
 st.markdown("""
-👨‍💻 **Developed By:** ANSHIKA DWIVEDI
+ 👤**Developed By:** ANSHIKA DWIVEDI
 
 📧 Branch:**INFORMATION_TECHNOLOGY**,
     Room:**G-612**
